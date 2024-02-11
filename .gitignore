@@ -1,0 +1,8 @@
+# ignore bazel shortcut
+bazel-bin
+bazel-out
+bazel-testlogs
+
+# Ignore files ending with ~ or #
+*~
+*#
